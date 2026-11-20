@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 salom men Azizbek
+=======
+bug git hub
+
+bugun git 
+
+adhgafdshagdfhgsdf
+>>>>>>> 38c3801fca2a9d026d975a95a0609b09fad629b2
